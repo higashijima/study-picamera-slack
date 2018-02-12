@@ -1,0 +1,13 @@
+{
+  "name": "slack-integration",
+  "version": "0.0.2",
+  "description": "",
+  "main": "slack.py",
+  "author": "",
+  "license": "",
+  "language":"python",
+  "scripts": {
+	"start": "python3 -u slack.py"
+  },
+  "dependency": null
+}
